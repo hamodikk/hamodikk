@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**hamodikk/hamodikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Hamdi Kucukengin** — a data science graduate student and research staff member at **Northwestern University**. I bring over **5 years of research experience**, including work in **computational biology**, **bioinformatics**, and **quantitative image analysis**.
 
-Here are some ideas to get you started:
+### 🔬 Research Technologist @ Northwestern
+In my current role, I apply **statistical and machine learning techniques** to:
+- RNA-seq data
+- Confocal imaging
+- Gene expression studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Master's in Data Science (AI Specialization)
+I'm wrapping up my graduate degree in **Data Science**, with a focus on **Artificial Intelligence**. My recent work explores:
+- **Geospatial AI**: [CNN-based urban land use classifier](https://github.com/hamodikk/CNN_Typography)
+- **Natural Language Processing**: [Transformer-based stance detection model for policy texts](https://github.com/hamodikk/stance_detection)
+
+**Main tools:**
+Python · R · Golang · PyTorch · Keras · TensorFlow  
+Pandas · scikit-learn · ggplot2
+
+---
+
+### 💡 Interests
+I’m especially interested in **mission-driven roles** in:
+- **Healthcare**
+- **Scientific research**
+- **Non-profits**
+
+Where I can apply data science and ML to impactful, real-world challenges.
+
+---
+
+### 🔍 Actively Seeking Opportunities
+I’m currently exploring roles as a:
+- Data Scientist
+- Machine Learning Engineer
+- Bioinformatician
+
+If your organization is solving important problems with data, I’d love to connect!
+
+---
+
+### 🎮 Fun Facts
+When I’m not coding, I’m probably:
+- Playing video games 🎮
+- Bouldering (V4, but working on it!) 🧗‍♂️
+- Learning **Unreal Engine + C++** to build my own game
+
+---
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/hamdi-kucukengin/)
