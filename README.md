@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-Hi, I'm **Hamdi Kucukengin** — a data science graduate student and research staff member at **Northwestern University**. I bring over **5 years of research experience**, including work in **computational biology**, **bioinformatics**, and **quantitative image analysis**.
+Hi, I'm **Hamdi Kucukengin** — a data science graduate student and research staff member at **Northwestern University**. I have over **5 years of research experience**, including work in **computational biology**, **bioinformatics**, and **quantitative image analysis**.
 
 ### 🔬 Research Technologist @ Northwestern
 In my current role, I apply **statistical and machine learning techniques** to:
