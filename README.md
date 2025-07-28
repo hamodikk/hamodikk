@@ -17,8 +17,8 @@ I'm wrapping up my graduate degree in **Data Science**, with a focus on **Artifi
 - **Natural Language Processing**: [Transformer-based stance detection model for policy texts](https://github.com/hamodikk/stance_detection)
 
 **Main tools:**
-Python · R · Golang · PyTorch · Keras · TensorFlow  
-Pandas · scikit-learn · ggplot2
+Python · Golang · PyTorch · Keras · TensorFlow  
+Pandas · scikit-learn · MLflow · GCP · FastAPI
 
 ---
 
