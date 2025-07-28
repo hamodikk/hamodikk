@@ -12,6 +12,7 @@ In my current role, I apply **statistical and machine learning techniques** to:
 
 ### 🎓 Master's in Data Science (AI Specialization)
 I'm wrapping up my graduate degree in **Data Science**, with a focus on **Artificial Intelligence**. My recent work explores:
+- **AutoML Computer Vision API**: [AutoML Computer Vision API](https://github.com/hamodikk/automl-cv-api)
 - **Geospatial AI**: [CNN-based urban land use classifier](https://github.com/hamodikk/CNN_Typography)
 - **Natural Language Processing**: [Transformer-based stance detection model for policy texts](https://github.com/hamodikk/stance_detection)
 
